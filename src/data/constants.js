@@ -176,21 +176,14 @@ export const projects = [
       "https://assets-global.website-files.com/59e16042ec229e00016d3a66/6441d5f76d21e1e4dee9ffa2_Gen%20AI%20blog_Blog%20hero.png",
     tags: ["Python", "Keras", "TensorFlow", "Generative AI", "Deep Learning", "CNN"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+    github: "https://github.com/kiranss777/PES-University-Capstone-Project",
     member: [
       {
         name: "Kiran SS",
         img: "https://avatars.githubusercontent.com/u/111719669?v=4",
         linkedin: "https://www.linkedin.com/in/kiran-ss/",
         github: "https://github.com/kiranss777/",
-      },
-      {
-        name: "Kuval Kiran",
-        img: "https://avatars.githubusercontent.com/u/95743970?v=4",
-        linkedin: "https://www.linkedin.com/in/kuval-kiran-77884b1b3/",
-        github: "https://github.com/kuvalkiran",
-      },
+      }
     ],
   },
   {
@@ -213,7 +206,14 @@ export const projects = [
     ],
     category: "Mini Project",
     github: "https://github.com/kiranss777/REDDIT-POST-TO-YOUTUBE-SHORTS-MAKER",
-    
+    member: [
+      {
+        name: "Kiran SS",
+        img: "https://avatars.githubusercontent.com/u/111719669?v=4",
+        linkedin: "https://www.linkedin.com/in/kiran-ss/",
+        github: "https://github.com/kiranss777/",
+      }
+    ],
   },
     
   {
@@ -227,6 +227,14 @@ export const projects = [
     tags: ["Python", "Map Reduce", "Big Data"],
     category: "BIG DATA",
     github: "https://github.com/kiranss777/HDFS_MAPREDUCE",
+    member: [
+      {
+        name: "Kiran SS",
+        img: "https://avatars.githubusercontent.com/u/111719669?v=4",
+        linkedin: "https://www.linkedin.com/in/kiran-ss/",
+        github: "https://github.com/kiranss777/",
+      }
+    ],
   },
 
   {
@@ -247,6 +255,14 @@ export const projects = [
     ],
     category: "machine learning",
     github: "https://github.com/kiranss777/HOUSE-PRICE-PREDICTION-PYTHON/tree/main",
+    member: [
+      {
+        name: "Kiran SS",
+        img: "https://avatars.githubusercontent.com/u/111719669?v=4",
+        linkedin: "https://www.linkedin.com/in/kiran-ss/",
+        github: "https://github.com/kiranss777/",
+      }
+    ],
     
   },
 
@@ -261,6 +277,14 @@ export const projects = [
     tags: ["Python ", "Machine Learning", "Yolo"],
     category: "machine learning",
     github: "https://github.com/kiranss777/UI-ELEMENTS-DETECTION-USING-YOLO-V8",
+    member: [
+      {
+        name: "Kiran SS",
+        img: "https://avatars.githubusercontent.com/u/111719669?v=4",
+        linkedin: "https://www.linkedin.com/in/kiran-ss/",
+        github: "https://github.com/kiranss777/",
+      }
+    ],
   },
   {
     id: 5,
@@ -273,6 +297,14 @@ export const projects = [
     tags: ["Python","Reinforcement Learning","OpenAI", "OpenAI Gymnasium"],
     category: "machine learning",
     github: "https://github.com/kiranss777/OpenAI-gym-frozenlake",
+    member: [
+      {
+        name: "Kiran SS",
+        img: "https://avatars.githubusercontent.com/u/111719669?v=4",
+        linkedin: "https://www.linkedin.com/in/kiran-ss/",
+        github: "https://github.com/kiranss777/",
+      }
+    ],
   },
   {
     id: 6,
@@ -285,7 +317,35 @@ export const projects = [
     tags: ["Python", "Streamlit", "MySQL","DBMS"],
     category: "Mini Project",
     github: "https://github.com/kiranss777/CAR-RENTAL-MANAGEMENT-SYSTEM-DBMS",
+    member: [
+      {
+        name: "Kiran SS",
+        img: "https://avatars.githubusercontent.com/u/111719669?v=4",
+        linkedin: "https://www.linkedin.com/in/kiran-ss/",
+        github: "https://github.com/kiranss777/",
+      }
+    ],
+  },
+  {
+    id: 7,
+    title: "MusicFy",
+    
+    description:
+      "An online Music Player to play some of my favourite Songs!",
+    image:
+      "https://main--clever-arithmetic-c1e900.netlify.app/logo.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    category: "WEB Development",
+    github: "https://github.com/kiranss777/musicfy",
+    webapp: "https://main--clever-arithmetic-c1e900.netlify.app",
+    member: [
+      {
+        name: "Kiran SS",
+        img: "https://avatars.githubusercontent.com/u/111719669?v=4",
+        linkedin: "https://www.linkedin.com/in/kiran-ss/",
+        github: "https://github.com/kiranss777/",
+      }
+    ],
   },
 ];
-
 
